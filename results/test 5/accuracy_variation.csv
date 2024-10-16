@@ -1,0 +1,25 @@
+Threshold,Entity,Search Type,Accuracy
+0.2,Tool,FlexSearch,0.0
+0.2,Goal,FlexSearch,0.0
+0.2,Post,FlexSearch,0.011235955056179803
+0.5,Tool,FlexSearch,0.0
+0.5,Goal,FlexSearch,0.0
+0.5,Post,FlexSearch,0.015873015873015817
+0.7,Tool,FlexSearch,0.0
+0.7,Goal,FlexSearch,0.0
+0.7,Post,FlexSearch,0.03448275862068961
+0.8,Tool,FlexSearch,0.0
+0.8,Goal,FlexSearch,0.0
+0.8,Post,FlexSearch,0.04878048780487809
+0.2,Tool,SemanticSearch,0.11111111111111116
+0.2,Goal,SemanticSearch,0.39534883720930236
+0.2,Post,SemanticSearch,0.018433179723502335
+0.5,Tool,SemanticSearch,0.11111111111111116
+0.5,Goal,SemanticSearch,0.39534883720930236
+0.5,Post,SemanticSearch,0.018433179723502335
+0.7,Tool,SemanticSearch,0.11111111111111116
+0.7,Goal,SemanticSearch,0.4
+0.7,Post,SemanticSearch,0.018433179723502335
+0.8,Tool,SemanticSearch,0.11111111111111116
+0.8,Goal,SemanticSearch,0.459016393442623
+0.8,Post,SemanticSearch,0.018433179723502335
