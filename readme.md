@@ -119,8 +119,7 @@ These plots are saved in the `results` directory as:
 *Figure 1: Precision Comparison between FlexSearch and SemanticSearch across different entities.*
 
 
-**Note on Figure 1**:
-The threshold of 0.2 might not be reliable because of this imbalance, leading to false positives for some entities but good results for others. Therefore, FlexSearch at 0.2 needs deeper investigation to see why certain entities are overrepresented.
+
 
 ![Recall Comparison](results/recall_comparison_plot.png)
 
@@ -134,8 +133,6 @@ The threshold of 0.2 might not be reliable because of this imbalance, leading to
 
 *Figure 4: Accuracy Variation at Different Thresholds for FlexSearch and SemanticSearch across different entities.*
 
-**Note on Figure 4**:
-The high score for “Goal” at the 0.2 threshold may be misleading because there are few results. With fewer items returned, even a small number of correct matches can inflate metrics like precision and recall, making FlexSearch seem more accurate than it really is. This suggests that the high accuracy might not reflect true performance, but rather the effect of low data points.
 
 ## Usage
 
